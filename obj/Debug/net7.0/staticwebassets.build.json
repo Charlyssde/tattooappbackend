@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kIqP0bvIjXFsbvHlGTb6O7mzVLJWLOkfVhjBub2NcVM=",
+  "Source": "TattooBackend",
+  "BasePath": "_content/TattooBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
